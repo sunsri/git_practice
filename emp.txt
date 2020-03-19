@@ -1,3 +1,3 @@
- empno          
- ename       
- sal        
+ empno:- 100          
+ ename:- Sunetha       
+ sal:- 4,20,000        
