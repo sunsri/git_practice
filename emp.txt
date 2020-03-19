@@ -1,3 +1,4 @@
- empno:- 100          
+ empno:- IRL-100          
  ename:- Sunetha       
- sal:- 4,20,000        
+ sal:- 4,20,000
+ Address:- Palace Fields        
