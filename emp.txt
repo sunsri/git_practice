@@ -1,3 +1,5 @@
- empno:- 100          
- ename:- Sunetha       
- sal:- 4,20,000        
+ empno:- IRL-100          
+ ename:- Sunetha Srinivasa       
+ Birth:- Bangalore
+ Nationality:- INDIAN
+ Country:- INDIA
