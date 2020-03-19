@@ -2,3 +2,7 @@
  ename:- Sunetha       
  sal:- 4,20,000
  Address:- Palace Fields        
+ ename:- Sunetha Srinivasa       
+ Birth:- Bangalore
+ Nationality:- INDIAN
+ Country:- INDIA
